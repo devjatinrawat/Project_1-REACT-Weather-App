@@ -1,5 +1,5 @@
 
-![Screenshot (501)](https://user-images.githubusercontent.com/111337427/212090260-b291141f-f65a-42d6-84f8-69219621f3bf.png)
+![Screenshot (501)](https://user-images.githubusercontent.com/111337427/212091655-65010de1-9f83-40c7-a5d1-8df587f6bae6.png)
 
 This is how preview looks 
 
