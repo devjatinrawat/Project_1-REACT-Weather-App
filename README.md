@@ -1,6 +1,12 @@
 
+When the User Enters Delhi 
 
-![Screenshot (501)](https://user-images.githubusercontent.com/111337427/212092057-76995d4d-1a30-440d-a6ec-d6d6d8336387.png)
+![screencapture-localhost-3000-2023-01-16-22_01_48](https://user-images.githubusercontent.com/111337427/212726880-cc426542-3240-44f7-a803-c6398760c548.png)
+
+When the user Enters Indore 
+
+![screencapture-localhost-3000-2023-01-16-22_02_01](https://user-images.githubusercontent.com/111337427/212726956-b414ff81-69bd-4889-bef5-65c638abdcbe.png)
+
 
 This is how preview looks 
 
