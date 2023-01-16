@@ -1,7 +1,8 @@
 
 When the User Enters Delhi 
 
-<img href="https://user-images.githubusercontent.com/111337427/212726880-cc426542-3240-44f7-a803-c6398760c548.png" width = "1920" height="892"   />
+![screencapture-localhost-3000-2023-01-16-22_01_48](https://user-images.githubusercontent.com/111337427/212729303-9f7b16ad-36de-4939-ad65-cdee6930c8cf.png)
+
 
 When the user Enters Indore 
 
